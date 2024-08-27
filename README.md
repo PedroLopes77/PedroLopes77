@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro MIguel and I'm a communication network engineering student, from Brasília</h2>
+<h2 align="left">Hi 👋! My name is Pedro Miguel and I'm a communication network engineering student, from Brasília</h2>
 
 ###
 
@@ -27,8 +27,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/PedroLopes77/PedroLopes77/output/snake.svg" alt="Snake animation" />
 
