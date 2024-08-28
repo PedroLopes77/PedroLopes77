@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Miguel and I'm a communication network engineering student, from Brasília</h2>
+<h2 align="left">Hi 👋! My name is Pedro Miguel and I'm a communication network engineering student, from Universidade de Brasília(UnB)</h2>
 
 ###
 
